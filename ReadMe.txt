@@ -1,4 +1,2 @@
-Git is a distributed version control system.
-Git is a free software distributed under the GPL
-Hello Git
-Git is very convenient
+Hello World!
+My name is Gary Wu
